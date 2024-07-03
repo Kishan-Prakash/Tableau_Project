@@ -11,6 +11,8 @@ As a newly joined business analyst at StayCatin.com, a platform similar to Airbn
 
 Project Dashboard: https://public.tableau.com/app/profile/kishan.prakash/viz/StayCatinassn/DB_StayCatin_Kishan
 
+Project Story: https://public.tableau.com/app/profile/kishan.prakash/viz/StayCatinassn/Story_StayCatin_Kishan?publish=yes
+
 
 
 
