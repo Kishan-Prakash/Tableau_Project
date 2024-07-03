@@ -9,6 +9,8 @@ As a newly joined business analyst at StayCatin.com, a platform similar to Airbn
 3) Determining if any particular location (such as a shore) is generating more earnings.
 4) Exploring the relationship between price and reviews.
 
+Project Dashboard: https://public.tableau.com/app/profile/kishan.prakash/viz/StayCatinassn/DB_StayCatin_Kishan
+
 
 
 
